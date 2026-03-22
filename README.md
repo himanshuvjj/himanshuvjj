@@ -15,7 +15,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science @ **Arya College of Engineering & IT, Jaipur** (2022–2026)
-- 🏢 Former **Data Science Intern @ Celebal Technologies**
 - 🤖 Passionate about **Machine Learning, Data Science & Signal Processing**
 - 🚁 Built a **Micro-Doppler Radar System** to classify Birds vs Drones using ML
 - 📫 Reach me at **himanshuvijay0804@gmail.com**

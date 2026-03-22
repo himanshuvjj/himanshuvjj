@@ -8,7 +8,6 @@
   <a href="mailto:himanshuvijay0804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=himanshuvjj&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---

@@ -31,38 +31,16 @@
 ---
 
 # 👨‍💻 About Me
+🎓 B.Tech CSE Student passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
 
-```python
-class HimanshuVijay:
+💡 I enjoy building AI-powered real-world applications using Python and modern technologies.
 
-    def __init__(self):
+📈 Currently focused on:
 
-        self.role = "Machine Learning Enthusiast"
-
-        self.language = ["Python", "Java", "SQL"]
-
-        self.interests = [
-            "Machine Learning",
-            "Data Science",
-            "NLP",
-            "AI Applications",
-            "Backend Development"
-        ]
-
-        self.current_focus = "Building Real-World AI Projects"
-
-        self.learning = [
-            "Advanced ML",
-            "Deep Learning",
-            "System Design"
-        ]
-
-    def say_hi(self):
-
-        print("Thanks for visiting my profile 🚀")
-```
-
----
+Machine Learning
+NLP Applications
+Full Stack Python Projects
+Data Analytics Dashboards
 
 # 🚀 Tech Stack
 

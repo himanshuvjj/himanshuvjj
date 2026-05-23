@@ -1,68 +1,108 @@
-<h1 align="center">Hi 👋, I'm Himanshu Vijay</h1>
-<h3 align="center">Aspiring Data Scientist & ML Engineer | Python • Scikit-learn • Streamlit</h3>
+Hi there 👋, I'm Himanshu Vijay
+🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
-<p align="center">
-  <a href="https://linkedin.com/in/himanshu-vijay-ds" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:himanshuvijay0804@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Motivated Computer Science Engineering student passionate about building AI-powered applications, solving real-world problems using Machine Learning, and creating impactful data-driven solutions.
 
----
+🌐 Connect With Me
+📧 Email: himanshuvijay0804@gmail.com
+💼 LinkedIn: LinkedIn Profile
+💻 GitHub: GitHub Profile
+👨‍💻 About Me
+🎓 B.Tech CSE Student at Arya College of Engineering & IT, Jaipur
+📊 Passionate about Machine Learning, NLP, and Data Analytics
+🧠 Interested in AI-powered automation systems
+⚡ Strong foundation in Python, SQL, OOP, DBMS, and Data Structures
+🚀 Building real-world projects using ML and Streamlit
+📈 Enthusiastic about data-driven decision making
+🛠️ Tech Stack
+💻 Programming Languages
+Python
+Java
+SQL
+🤖 Machine Learning & AI
+Scikit-learn
+TensorFlow
+PyTorch
+NLP
+Feature Engineering
+Model Optimization
+📊 Data Analysis & Visualization
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Streamlit
+🗄️ Databases
+MySQL
+SQLite
+MongoDB
+⚙️ Core CS Concepts
+Data Structures & Algorithms
+Object-Oriented Programming
+DBMS
+Operating Systems
+Computer Networks
+🚀 Featured Projects
+🔹 SmartHire AI – Resume Screening & Candidate Tracking System
 
-### 👨‍💻 About Me
+AI-powered ATS system that automates recruitment workflows using Machine Learning and NLP.
 
-- 🎓 B.Tech in Computer Science @ **Arya College of Engineering & IT, Jaipur** (2022–2026)
-- 🤖 Passionate about **Machine Learning, Data Science & Signal Processing**
-- 🚁 Built a **Micro-Doppler Radar System** to classify Birds vs Drones using ML
-- 📫 Reach me at **himanshuvijay0804@gmail.com**
-- ⚡ Fun fact: I can tell a bird from a drone — using math 😄
+Features
+Resume Parsing
+AI Match Score Calculation
+Skill Extraction
+Candidate Ranking
+Analytics Dashboard
+Email Notification System
+SQLite Integration
+Tech Used
 
----
+Python Streamlit SQLite Machine Learning NLP
 
-### 🛠️ Tech Stack
+🔗 Live Demo:
+SmartHire AI Live App
 
-**Languages**
+🔗 GitHub Repository:
+SmartHire AI Repository
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔹 MailGuard – Spam Detection ML Pipeline
 
-**ML & Data Science**
+End-to-end Machine Learning pipeline for spam email detection with real-time predictions.
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+Features
+Email preprocessing
+Feature engineering
+Random Forest & Logistic Regression
+Hyperparameter tuning
+Real-time prediction system
+Achievements
+✅ 98% Accuracy
+✅ 0.97 AUC-ROC
+✅ Reduced dimensionality by 30%
+💼 Experience
+Data Science Intern — Celebal Technologies
 
-**Tools & Platforms**
+📅 Jun 2025 – Aug 2025
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+Built and optimized supervised ML models and data pipelines
+Improved model accuracy by 15%
+Automated ETL workflows using SQL
+Designed interactive dashboards using Streamlit and Plotly
+Worked on model evaluation and feature engineering
+📜 Certifications
+🏆 Generative AI — Foundations and Applications | Microsoft & LinkedIn Learning
+🏆 RHCSA — Red Hat Certified System Administration
+🏆 Programming in Java | NPTEL – IIT
+🏆 Introduction to MongoDB | MongoDB University
+📈 GitHub Stats
 
----
+🎯 Current Focus
+Machine Learning Projects
+NLP Applications
+AI-powered Systems
+Full Stack Python Development
+Data Analytics & Visualization
+⚡ Fun Fact
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🚁 [Micro-Doppler Radar Classifier](https://github.com/himanshuvjj) | Classifies Birds vs Drones using radar frequency & speed signatures | Python, Scikit-learn, Signal Processing |
-| 📧 [MailGuard](https://github.com/himanshuvjj) | Spam email detection with ~98% accuracy | Python, Random Forest, Pandas |
-| 🩺 [DiaPredict](https://github.com/himanshuvjj) | Diabetes prediction web app with real-time UI | Python, Streamlit, Scikit-learn |
-
----
-
-### 🏆 Certifications
-- 🤖 Generative AI – Microsoft & LinkedIn Learning
-- ☕ Programming in Java – NPTEL (IIT)
-- 🔴 Red Hat Certified System Administrator (RHCSA)
-- 🌿 Introduction to MongoDB – MongoDB University
+I enjoy transforming real-world problems into AI-powered solutions using Machine Learning and Python 🚀

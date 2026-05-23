@@ -192,16 +192,6 @@ Python • Scikit-learn • NLP • Streamlit
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvjj&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🎯 Current Goals
 
 - 🚀 Build impactful AI-powered applications

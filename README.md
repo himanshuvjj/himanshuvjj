@@ -84,7 +84,7 @@ Data Analytics Dashboards
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ## 🤖 SmartHire AI
 
@@ -104,7 +104,7 @@ https://github.com/himanshuvjj/SmartHire-AI
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 ## 🛒 Hyperlocal Price Intelligence
 
@@ -122,6 +122,10 @@ Python • Streamlit • SQLite • Pandas • BeautifulSoup • Prophet
 
 🔗 GitHub Repository
 https://github.com/himanshuvjj/Hyperlocal-Price-Intelligence
+
+</td>
+
+<td width="33%">
 
 ## 📧 MailGuard
 

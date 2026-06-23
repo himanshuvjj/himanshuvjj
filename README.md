@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Himanshu Vijay
 
-### 🚀 Data Science Enthusiast | Machine Learning Engineer | Python Developer
+### 🚀 Data Science Enthusiast | Machine Learning Engineer |
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Building+AI-Powered+Applications" />
 
@@ -98,9 +98,6 @@ Data Analytics Dashboards
 
 ### Tech Stack
 Python • Streamlit • SQLite • NLP • ML
-
-🔗 Live Demo  
-https://smarthire-ai-ptfjujhvfhi9bzhoqnjchu.streamlit.app/
 
 🔗 GitHub Repository  
 https://github.com/himanshuvjj/SmartHire-AI

@@ -106,6 +106,23 @@ https://github.com/himanshuvjj/SmartHire-AI
 
 <td width="50%">
 
+## 🛒 Hyperlocal Price Intelligence
+
+### E-commerce Price Tracking & Forecasting System
+
+✅ Automated Price Scraping
+✅ Historical Price Analysis
+✅ Buy/Wait Recommendation Engine
+✅ Interactive Analytics Dashboard
+✅ Price Forecasting with Prophet
+
+### Tech Stack
+
+Python • Streamlit • SQLite • Pandas • BeautifulSoup • Prophet
+
+🔗 GitHub Repository
+https://github.com/himanshuvjj/Hyperlocal-Price-Intelligence
+
 ## 📧 MailGuard
 
 ### Spam Detection ML Pipeline

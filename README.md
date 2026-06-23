@@ -4,7 +4,7 @@
 
 ### 🚀 Data Science Enthusiast | Machine Learning Engineer |
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Building+AI-Powered+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Learner;Building+AI-Powered+Applications" />
 
 </div>
 

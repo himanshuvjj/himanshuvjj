@@ -18,19 +18,6 @@
 
 ## 🚀 About Me
 
-```python
-class HimanshuVijay:
-    def __init__(self):
-        self.role = "Computer Science Graduate"
-        self.focus = ["Machine Learning", "Data Analytics", "Data Science"]
-        self.location = "Alwar, Rajasthan, India"
-        self.education = "B.Tech CSE @ Arya College of Engineering & IT, Jaipur (RTU) | CGPA: 8.2"
-        self.currently = "Ex Data Science Intern @ Celebal Technologies"
-
-    def passions(self):
-        return "EDA, Feature Engineering, Dashboards, and turning messy data into decisions"
-```
-
 - 🎓 B.Tech in Computer Science & Engineering, RTU (2022 – 2026), CGPA **8.2**
 - 💼 Worked as a **Data Science Intern at Celebal Technologies** (Jun 2025 – Aug 2025)
 - 🧠 Strong foundation in **Python, SQL, Machine Learning & Data Analytics**
@@ -91,7 +78,6 @@ class HimanshuVijay:
 <br/>
 
 ## 🧩 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -102,7 +88,9 @@ End-to-end EDA on customer shopping data — cleaning, transforming, and analyzi
 - Advanced SQL (joins, aggregations, window functions) for customer & revenue analysis
 - Interactive **Power BI dashboard** with KPI cards, trend analysis & slicers
 
-`Python` `Pandas` `SQL` `Power BI`
+### Tech Stack
+
+Python • Power Bi • SQL • Pandas 
 
 </td>
 <td width="50%" valign="top">
@@ -113,11 +101,29 @@ AI-powered ATS for resume screening, candidate tracking, and recruitment automat
 - NLP-based resume parsing & AI match scoring using **TF-IDF + Cosine Similarity**
 - Streamlit dashboard with candidate ranking, analytics, auth, and email notifications
 
-`NLP` `Streamlit` `SQLite` `Python`
+### Tech Stack
+
+Python • Streamlit • SQLite • NLP 
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🛒 Hyperlocal Price Intelligence
+An E-commerce Price Tracking & Forecasting System that trace prices of products
+
+- Automated Price Scraping
+- Historical Price Analysis
+- Buy/Wait Recommendation Engine
+- Interactive Analytics Dashboard
+- Price Forecasting with Prophet
+
+### Tech Stack
+
+Python • Streamlit • SQLite • Pandas • BeautifulSoup • Prophet
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛡️ MailGuard — Spam Detection ML Pipeline
@@ -127,35 +133,13 @@ End-to-end ML pipeline for spam detection on 4,600+ emails.
 - Feature selection reduced dimensionality by **30%**, improved inference speed by **40%**
 - Deployed as a real-time Streamlit web app
 
-`Scikit-learn` `Streamlit` `ML`
+### Tech Stack
 
-</td>
-<td width="50%" valign="top">
-
-### 📌 More on the way...
-Always building something new. Check out my pinned repos for the latest work!
-
-[![View Repos](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshuvjj?tab=repositories)
+Scikit-learn • Streamlit • ML • Classification
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanshuvjj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvjj&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuvjj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuvjj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="48%"/>
-
-</div>
 
 <br/>
 
@@ -171,6 +155,9 @@ Always building something new. Check out my pinned repos for the latest work!
 ## 📜 Certifications
 
 - 🏆 **Generative AI — Foundations and Applications** — Microsoft & LinkedIn Learning
+- 🏆 RHCSA — Red Hat Certified System Administration
+- 🏆 Programming in Java | NPTEL – IIT
+- 🏆 Introduction to MongoDB | MongoDB University  
 
 <br/>
 
